@@ -34,6 +34,8 @@ Verify that error messages for respective fields are displaying.
 
  note :  i tried coding by commenting some steps instead of writting again please go through it uncomment it and try ur self
 
-    https://github.com/kshivakumar27 please visit and contact me if anything needed
+    https://github.com/kshivakumar27 
+    
+    please visit and contact me if anything needed
 
   https://kshivakumar27.github.io/portfolio
